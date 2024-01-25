@@ -1,5 +1,5 @@
 {
-  "name": "NativeBaseSecurityCheck",
+  "name": "native-base-security-check",
   "version": "0.0.1",
   "private": true,
   "scripts": {
