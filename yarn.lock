@@ -6003,10 +6003,10 @@ ms@2.1.3:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.3.tgz#574c8138ce1d2b5861f0b44579dbadd60c6615b2"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
-native-base@^3.4.28:
-  version "3.4.28"
-  resolved "https://registry.yarnpkg.com/native-base/-/native-base-3.4.28.tgz#81b174c8fab1a38fc4560abc12b63dc836c6a14a"
-  integrity sha512-EDg9UFDNmfYXPInpRbxce+4oWFEIGaM7aG6ey4hVllcvMC3PkgCvkiXEB+7EemgC7Qr8CuFjgMTx7P0vvnwZeQ==
+native-base-security-patched@^3.4.25:
+  version "3.4.25"
+  resolved "https://registry.yarnpkg.com/native-base-security-patched/-/native-base-security-patched-3.4.25.tgz#355b5a811a98f7b24464aa172fd16c108c20b0d2"
+  integrity sha512-m2Tuf/9/n44VcCnf1bysMc8i+zP/WQ6dIXbfxpLPvjj8skDAltViIEtCyrxW4B83QMdlDxl/lm0yQbJc4e1YVQ==
   dependencies:
     "@react-aria/visually-hidden" "^3.2.1"
     "@react-native-aria/button" "^0.2.4"
